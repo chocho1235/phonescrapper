@@ -1,0 +1,3 @@
+[submodule "google-maps-scraper"]
+	path = google-maps-scraper
+	url = https://github.com/chocho1235/phonescrapper.git
